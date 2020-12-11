@@ -11,3 +11,9 @@ sobre os ícones um alerta é exibido informando a rede social e a mensagem comp
 
 # Stack
 Utilizei o React como stack principal trabalhando os conceitos de módulos e estados dos componentes.
+
+# Link
+http://insta-model.surge.sh/
+
+# Contato
+alex.gessone@gmail.com
